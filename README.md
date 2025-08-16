@@ -11,7 +11,7 @@ When client releases we'll be installing coral
 
 
 ## Issues
-Found a bug or have an idea for a new feature? You can let us know by clicking [here](https://github.com/SkidderMC/Coral Cleint/issues) to open an issue.
+Found a bug or have an idea for a new feature? join our discord for updates!
 
 
 ## License
